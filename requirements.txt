@@ -1,0 +1,10 @@
+# dependencies 
+
+os 
+json
+dotenv
+pandas
+openai 
+langchain
+streamlit 
+pinecone
