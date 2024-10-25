@@ -56,7 +56,6 @@ PINECONE_API_KEY = "105107c0-a54b-4c2c-8581-a818f0bd5b06"
 
 Run the application with:
 ```bash
-python main.py
 streamlit run main.py
 ```
 
