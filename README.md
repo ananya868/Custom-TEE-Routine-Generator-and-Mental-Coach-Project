@@ -2,6 +2,13 @@
 
 Welcome to the **Custom TEE Generator & Mental Coach** project! This exciting tool is designed to take your baseball or softball game to the next level, leveraging the latest in AI and data management technologies. Built using RAG, Pinecone, and OpenAI, our tool provides personalized training and mental coaching to help you excel on the field.
 
+<p align="center">
+  <img src="trg.png" width="650" />
+</p>
+<p align="center">
+  <img src="mqa.png" width="650" />
+</p>
+
 ## Project Overview
 
 This project utilize RAG using pinecone query database to retrieve data which is collected over many youtube video transcriptions of top baseball/softball coaches. This ll not only help with creating personalized TEE routine and answers related to mental problems faced by players but also provide accurate result leveraging lessons from the top coachs. Whether you're a beginner or a pro, this custom TEE generator and mental coach will help you improve your skills and mental toughness.
